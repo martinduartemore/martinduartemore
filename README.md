@@ -3,7 +3,7 @@
 My name is Martin, and I'm a Machine Learning Engineer and Researcher.
 
 - 🔭 I’m currently working as a Senior Machine Learning Engineer at Teia Labs.
-- 🎓 I hold a PhD (and a Master's) in Computer Science from PUCRS, where I specialized in deep learning and image editing tasks.
+- 🎓 I hold a PhD (and a Master's) in Computer Science from PUCRS, where I specialized in deep learning and image editing.
 - 💼 I have experience working in both academia and industry, having collaborated with various research labs and companies.
 - 🤝 I am always open to new opportunities and collaborations; feel free to reach out!
 
@@ -12,7 +12,6 @@ My name is Martin, and I'm a Machine Learning Engineer and Researcher.
 I have been working with deep learning since 2016, and I'm passionate about its applications in creative fields.
 My main research interests include generative models, multimodal learning, and AI-assisted creativity.
 During my Master's and PhD studies, I explored the task of text-guided image editing.
-
 My ultimate goal is to work on removing the barriers to creativity through intelligent software to allow people to express their best creative selves.
 
 ### 📫 Connect With Me
