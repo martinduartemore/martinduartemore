@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**martinduartemore/martinduartemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Martin, and I'm a Machine Learning Engineer and Researcher.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Senior Machine Learning Engineer at Teia Labs.
+- 🎓 I hold a PhD (and a Master's) in Computer Science from PUCRS, where I specialized in deep learning and image editing tasks.
+- 💼 I have experience working in both academia and industry, having collaborated with various research labs and companies.
+- 🤝 I am always open to new opportunities and collaborations; feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+
+I have been working with deep learning since 2016, and I'm passionate about its applications in creative fields.
+My main research interests include generative models, multimodal learning, and AI-assisted creativity.
+During my Master's and PhD studies, I explored the task of text-guided image editing.
+
+My ultimate goal is to work on removing the barriers to creativity through intelligent software to allow people to express their best creative selves.
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martinduartemore)
