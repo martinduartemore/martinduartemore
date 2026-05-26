@@ -2,7 +2,6 @@
 
 My name is Martin, and I'm a Machine Learning Engineer and Researcher.
 
-- 🔭 I’m currently working as a Senior Machine Learning Engineer at Teia Labs.
 - 🎓 I hold a PhD (and a Master's) in Computer Science from PUCRS, where I specialized in deep learning and image editing.
 - 💼 I have experience working in both academia and industry, having collaborated with various research labs and companies.
 - 🤝 I am always open to new opportunities and collaborations; feel free to reach out!
