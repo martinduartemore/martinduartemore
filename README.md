@@ -1,17 +1,21 @@
 ## Hi there 👋
 
-My name is Martin, and I'm a Machine Learning Engineer and Researcher.
+I'm Martin, an AI researcher at [AE Studio](https://ae.studio) working on AI alignment.
 
-- 🎓 I hold a PhD (and a Master's) in Computer Science from PUCRS, where I specialized in deep learning and image editing.
-- 💼 I have experience working in both academia and industry, having collaborated with various research labs and companies.
-- 🤝 I am always open to new opportunities and collaborations; feel free to reach out!
+- 🛡️ I work on training-time safety techniques for LLMs, with the goal of reducing existential risk from advanced AI.
+- 🎓 I hold a PhD (and a Master's) in Computer Science from PUCRS, where I researched text-guided image editing and test-time compute scaling.
+- 💼 Before AE Studio, I spent five years as a technical lead building LLM systems in industry.
+- 🤝 Always happy to talk about AI safety research; feel free to reach out!
 
 ### 🔬 Research Interests
 
-I have been working with deep learning since 2016, and I'm passionate about its applications in creative fields.
-My main research interests include generative models, multimodal learning, and AI-assisted creativity.
-During my Master's and PhD studies, I explored the task of text-guided image editing.
-My ultimate goal is to work on removing the barriers to creativity through intelligent software to allow people to express their best creative selves.
+I've been working with deep learning since 2016. My earlier research focused on generative models and multimodal learning, especially text-guided image editing.
+Today my focus is AI alignment: keeping increasingly capable AI systems safe and under meaningful human oversight, including through the point where they begin to recursively self-improve.
+
+I'm currently exploring:
+
+- Mechanistic interpretability
+- Safely scaling reinforcement learning with verifiably aligned rewards
 
 ### 📫 Connect With Me
 
